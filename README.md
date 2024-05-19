@@ -4,14 +4,13 @@ This project is a simple web application that displays a list of fresh produce i
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Project Structure](#project-structure)
 
 ## Demo
 
-You can see a live demo of the project [here](https://yourusername.github.io/yourrepository).
+You can see a live demo of the project [here](https://codepen.io/lest-xu/pen/xxNZWaP).
 
 ## Features
 
@@ -26,7 +25,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
+   git clone https://github.com/lest-xu/bucs601a2.git
     ```
 2. Navigate to the project directory:
     ```bash
