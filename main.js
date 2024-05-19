@@ -7,7 +7,7 @@ const fruitsDropzone = document.getElementById('dpz1');
 const vegetablesDropzone = document.getElementById('dpz2');
 
 // 3. set json data file url
-const productsJsonUrl = 'https://raw.githubusercontent.com/lest-xu/temp/master/products.json';
+const productsJsonUrl = 'https://raw.githubusercontent.com/lest-xu/bucs601a2/main/products.json';
 
 // 4. asynchronously fetech the json file form my github 
 async function fetchProducts() {
