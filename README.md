@@ -4,6 +4,7 @@ This project is a simple web application that displays a list of fresh produce i
 
 ## Table of Contents
 
+- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Project Structure](#project-structure)
