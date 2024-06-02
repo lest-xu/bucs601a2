@@ -1,0 +1,44 @@
+[
+  {
+    "name": "United States",
+    "climateType": "rainy",
+    "climateLevel": 28,  
+    "flagUrl": "https://www.countryflags.com/wp-content/uploads/united-states-of-america-flag-png-large.png"
+  },
+  {
+    "name": "Norway",
+    "climateType": "snowy",
+    "climateLevel": 20,
+    "flagUrl": "https://www.countryflags.com/wp-content/uploads/norway-flag-png-large.png"
+  },
+  {
+    "name": "Brazil",
+    "climateType": "rainy",
+    "climateLevel": 40, 
+    "flagUrl": "https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png"
+  },
+  {
+    "name": "Japan",
+    "climateType": "island",
+    "climateLevel": 145937,
+    "flagUrl": "https://www.countryflags.com/wp-content/uploads/japan-flag-png-large.png"
+  },
+  {
+    "name": "Sweden",
+    "climateType": "snowy",  
+    "climateLevel": 30,
+    "flagUrl": "https://www.countryflags.com/wp-content/uploads/sweden-flag-png-large.png"
+  },
+  {
+    "name": "Australia",
+    "climateType": "island",
+    "climateLevel": 2968464,
+    "flagUrl": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-9-300x150.jpg"
+  },
+  {
+    "name": "Canada",
+    "climateType": "snowy",
+    "climateLevel": 141,
+    "flagUrl": "https://www.countryflags.com/wp-content/uploads/canada-flag-png-large.png"
+  }
+]
